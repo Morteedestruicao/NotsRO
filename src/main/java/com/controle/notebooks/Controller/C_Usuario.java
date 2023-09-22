@@ -23,4 +23,5 @@ public class C_Usuario {
         S_Usuario.cadastrarUsuario(nome, cargo, matricula, email);
         return "usuario/cadastro";
     }
+
 }

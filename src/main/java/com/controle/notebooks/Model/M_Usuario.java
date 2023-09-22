@@ -15,14 +15,7 @@ public class M_Usuario {
     private Long matricula;
     private String email;
 
-//    public M_Usuario(Long id, String nome, Long id_cargo, Long matricula, String email, String senha) {
-//        this.id = id;
-//        this.nome = nome;
-//        this.id_cargo = id_cargo;
-//        this.matricula = matricula;
-//        this.email = email;
-//        this.senha = senha;
-//    }
+
 
     private String senha;
 

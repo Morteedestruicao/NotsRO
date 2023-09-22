@@ -52,7 +52,7 @@ function visualizar1(){
  }
 function visualizar2(){
      inputSenha.setAttribute('type', 'text')
- }
+}
 
 
 
